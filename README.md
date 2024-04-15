@@ -30,3 +30,7 @@ html, css
 10. 트러블슈팅 경험 / 자랑하고 싶은 코드
   
 12. 회고 / 느낀 점
+proFile
+name:김세영
+HP :010-7404-5033
+EMAIL:mter78@naver.com
