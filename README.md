@@ -34,3 +34,4 @@ proFile
 name:김세영
 HP :010-7404-5033
 EMAIL:mter78@naver.com
+블로그: https://ptsa.tistory.com
