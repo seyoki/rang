@@ -33,7 +33,7 @@ html, css
 
 mapper클래스에서 발생한이슈:
 
-  controller에서발생한 이슈:사실 찾기 굉장히 어려웠다 초반이라 기술 근육이 발생하기전 이였기때문
+ controller에서발생한 이슈- 
 
 12. 회고 / 느낀 점
 proFile
